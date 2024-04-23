@@ -1,0 +1,13 @@
+@import "./symbols.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#app {
+  @apply w-full min-h-screen flex flex-col justify-center align-middle;
+}
+
+.btn-video{
+  @apply btn btn-xs glass absolute transition-all duration-300 top-5 right-5 opacity-0;
+}

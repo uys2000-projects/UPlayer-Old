@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "uplayer-mehmetuysal-test",
+    "prod": "uplayer-mehmetuysal-dev",
+    "dev": "uplayer-mehmetuysal-test"
+  },
+  "targets": {},
+  "etags": {}
+}
